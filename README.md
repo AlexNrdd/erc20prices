@@ -8,5 +8,6 @@ Made using Covalent examples.
 Powered by Covalent API.  https://www.covalenthq.com/docs/api/
 
 Here it is
+https://alexnrdd.github.io/erc20prices/
 
 
