@@ -5,7 +5,7 @@ Almost all pricing apps are usually overloaded with information.
 Here, just a list at once and that's it.)
 Maybe useful for someone.
 Made using Covalent examples.
-Powered by Covalent API.  https://www.covalenthq.com/docs/api/
+Powered by Covalent API. 
 
 Here it is
 https://alexnrdd.github.io/erc20prices/
